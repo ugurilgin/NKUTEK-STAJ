@@ -1,4 +1,4 @@
-![logo](/NKU.png)
+![logo](/NKU2.png)
 # NKUTEK-STAJ
 Namık Kemal Üniversitesi Teknoloji Yönetici A.Ş.
 * Yaz Stajı boyunca yaptığım çalışmalar; 
