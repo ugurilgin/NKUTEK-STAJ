@@ -5,5 +5,5 @@ Namık Kemal Üniversitesi Teknoloji Yönetici A.Ş.
 
 * [MVC SUNUM](https://github.com/ugurilgin/NKUTEK-STAJ/blob/master/MVC(Model-View-Controller).pptx)
 
-* [AÇIK DESTEK TAKİP](https://github.com/ugurilgin/Android-Staj/)
+* [AÇIK DESTEK TAKİP](https://github.com/ugurilgin/Android-Staj/)+[Sunum](https://github.com/ugurilgin/NKUTEK-STAJ/blob/master/Çağrı Destek Uygulaması.pptx)
 
